@@ -107,5 +107,5 @@
 <img width=720 src="./imageFiles/08.jpg">
 
 - test code가 test를 하는 module을 얼마나 충분히 test 하였는지 확인하기 위해 code coverage를 확인할 수 있습니다.
-- Product > Test > Options에서 Code Coverage에 check 해주고 Targets에 추가합니다.
+- Product > Scheme > Edit Scheme > Test > Options에서 Code Coverage에 check 해주고 Targets에 추가합니다.
 - 이후 test를 진행하게 되면 code coverage를 확인할 수 있습니다.
