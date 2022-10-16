@@ -11,6 +11,7 @@
 
 ## Agile
 
+- [Agile](./Contents/Agile)
 - [Planning pocker](./Contents/PlanningPocker)
 
 
