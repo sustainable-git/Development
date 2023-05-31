@@ -8,6 +8,7 @@
 - [Use SwiftUI with UIKit](./Contents/Use%20SwiftUI%20with%20UIKit)
 - [What's new in HealthKit](./Contents/What's%20new%20in%20HealthKit)
 - [Accessing individual Elements of String](./Contents/Accessing%20individual%20Elements%20of%20String)
+- [Codable Enum](./Contents/Codable%20Enum)
 
 <br>
 
