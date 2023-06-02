@@ -11,7 +11,6 @@
 ## Codec
 
 <img width=600 src="./imageFiles/01.jpg">
-(https://www.muvi.com/blogs/best-video-codec-for-streaming.html)
 
 [이미지 출처](https://www.muvi.com/blogs/best-video-codec-for-streaming.html)
 
@@ -103,7 +102,8 @@
     - 이런 과정을 거치기 때문에 20~30초의 딜레이가 발생할 수 있습니다.
 
 <img width=600 src="./imageFiles/04.jpg">
-[출처](https://www.youtube.com/@dvnest)
+
+[이미지 출처](https://www.youtube.com/@dvnest)
 
 
 ## Video Streaming Protocol
